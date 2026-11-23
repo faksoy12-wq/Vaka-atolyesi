@@ -1,0 +1,129 @@
+html[data-palette="classic"][data-tone="light"] {
+  color-scheme: light;
+  --va-bg: #f5f4ef;
+  --va-paper: #fffefb;
+  --va-ink: #253f38;
+  --va-muted: #536752;
+  --va-accent: #235c4c;
+  --va-tint: #e9edde;
+  --va-line: #d6dfce;
+  --va-onaccent: #ffffff;
+  --va-hero: #224b40;
+}
+html[data-palette="classic"][data-tone="dark"] {
+  color-scheme: dark;
+  --va-bg: #191e1b;
+  --va-paper: #242c26;
+  --va-ink: #e9efe6;
+  --va-muted: #b5c3b0;
+  --va-accent: #a4c7ad;
+  --va-tint: #303d34;
+  --va-line: #465848;
+  --va-onaccent: #241e1b;
+  --va-hero: #224b40;
+}
+html[data-palette="ink"][data-tone="light"] {
+  color-scheme: light;
+  --va-bg: #f3f4f5;
+  --va-paper: #fdfdfc;
+  --va-ink: #242f41;
+  --va-muted: #526075;
+  --va-accent: #324e75;
+  --va-tint: #e8edf4;
+  --va-line: #d1d9e4;
+  --va-onaccent: #ffffff;
+  --va-hero: #263c59;
+}
+html[data-palette="ink"][data-tone="dark"] {
+  color-scheme: dark;
+  --va-bg: #191d24;
+  --va-paper: #242b36;
+  --va-ink: #eaf0f7;
+  --va-muted: #b8c4d6;
+  --va-accent: #a9c5ec;
+  --va-tint: #303c4d;
+  --va-line: #48576d;
+  --va-onaccent: #241e1b;
+  --va-hero: #263c59;
+}
+html[data-palette="plum"][data-tone="light"] {
+  color-scheme: light;
+  --va-bg: #f7f2ee;
+  --va-paper: #fffcf8;
+  --va-ink: #412e40;
+  --va-muted: #725f70;
+  --va-accent: #754462;
+  --va-tint: #f0e5eb;
+  --va-line: #e2d3db;
+  --va-onaccent: #ffffff;
+  --va-hero: #56354d;
+}
+html[data-palette="plum"][data-tone="dark"] {
+  color-scheme: dark;
+  --va-bg: #211c21;
+  --va-paper: #30272e;
+  --va-ink: #f5eaf1;
+  --va-muted: #cdb9c6;
+  --va-accent: #d9a8c6;
+  --va-tint: #40323d;
+  --va-line: #5d4956;
+  --va-onaccent: #241e1b;
+  --va-hero: #56354d;
+}
+html[data-palette="clay"][data-tone="light"] {
+  color-scheme: light;
+  --va-bg: #f7f2ea;
+  --va-paper: #fffbf5;
+  --va-ink: #422f27;
+  --va-muted: #735f51;
+  --va-accent: #99482e;
+  --va-tint: #f3e5d8;
+  --va-line: #e4d5c6;
+  --va-onaccent: #ffffff;
+  --va-hero: #673b2a;
+}
+html[data-palette="clay"][data-tone="dark"] {
+  color-scheme: dark;
+  --va-bg: #211e1c;
+  --va-paper: #302924;
+  --va-ink: #f8eee4;
+  --va-muted: #d1bfae;
+  --va-accent: #e6aa83;
+  --va-tint: #40342c;
+  --va-line: #5f4c40;
+  --va-onaccent: #241e1b;
+  --va-hero: #673b2a;
+}
+:where(html[data-custom]) button:focus-visible,:where(html[data-custom]) a:focus-visible,:where(html[data-custom]) input:focus-visible,:where(html[data-custom]) select:focus-visible{outline:3px solid var(--va-line)}:where(html[data-custom]) .sidebar{background:var(--va-tint)}:where(html[data-custom]) .logo{color:var(--va-onaccent)}:where(html[data-custom]) .logo span{color:var(--va-muted)}:where(html[data-custom]) nav button{color:var(--va-muted)}:where(html[data-custom]) nav .active{background:var(--va-tint);color:var(--va-ink)}:where(html[data-custom]) .flower{color:var(--va-muted)}:where(html[data-custom]) .sidebar-bottom p{color:var(--va-muted)}:where(html[data-custom]) .sidebar-bottom strong{color:var(--va-muted)}:where(html[data-custom]) .sidebar-bottom small{color:var(--va-muted)}:where(html[data-custom]) .eyebrow{color:var(--va-muted)}:where(html[data-custom]) .breadcrumb span{color:var(--va-muted)}:where(html[data-custom]) .avatar{border:1px solid var(--va-line);background:var(--va-tint);color:var(--va-muted)}:where(html[data-custom]) .heading h1 em{color:var(--va-muted)}:where(html[data-custom]) .today{background:var(--va-tint);border:1px solid var(--va-line)}:where(html[data-custom]) .today>span{color:var(--va-muted)}:where(html[data-custom]) .today small{color:var(--va-muted)}:where(html[data-custom]) .toolbar{color:var(--va-muted)}:where(html[data-custom]) .dot{background:var(--va-accent)}:where(html[data-custom]) .text{color:var(--va-muted)}:where(html[data-custom]) .card{border:1px solid var(--va-line)}:where(html[data-custom]) .chip{background:var(--va-tint);color:var(--va-muted)}:where(html[data-custom]) .star{color:var(--va-muted)}:where(html[data-custom]) .star[aria-pressed=true]{color:var(--va-muted)}:where(html[data-custom]) .card-id{color:var(--va-muted)}:where(html[data-custom]) .hint{color:var(--va-muted)}:where(html[data-custom]) .answer{background:var(--va-tint);color:var(--va-muted)}:where(html[data-custom]) .source{color:var(--va-muted)}:where(html[data-custom]) .primary{color:var(--va-onaccent)}:where(html[data-custom]) .primary:hover{background:var(--va-accent)}:where(html[data-custom]) .pagination>span{color:var(--va-muted)}:where(html[data-custom]) .ratings button{border:1px solid var(--va-line);background:var(--va-paper);color:var(--va-muted)}:where(html[data-custom]) .ratings button:first-child{background:var(--va-tint);color:var(--va-muted);border-color:var(--va-line)}:where(html[data-custom]) .ratings button:nth-child(3){background:var(--va-tint)}:where(html[data-custom]) .ratings button:last-child{background:var(--va-tint)}:where(html[data-custom]) .keys{color:var(--va-muted)}:where(html[data-custom]) .panel{background:var(--va-tint)}:where(html[data-custom]) .panel-heading small{color:var(--va-muted)}:where(html[data-custom]) .progress-number strong{color:var(--va-muted)}:where(html[data-custom]) .progress-number span{color:var(--va-muted)}:where(html[data-custom]) .track{background:var(--va-tint)}:where(html[data-custom]) .track div{background:var(--va-accent)}:where(html[data-custom]) .muted{color:var(--va-muted)}:where(html[data-custom]) hr{border-top:1px solid var(--va-line)}:where(html[data-custom]) select{border:1px solid var(--va-line);background:var(--va-paper);color:var(--va-muted)}:where(html[data-custom]) .modes button{color:var(--va-muted)}:where(html[data-custom]) .modes .selected{background:var(--va-tint);color:var(--va-muted)}:where(html[data-custom]) .seen{color:var(--va-muted)}:where(html[data-custom]) .seen strong{color:var(--va-muted)}:where(html[data-custom]) .tip{background:var(--va-tint)}:where(html[data-custom]) .tip small{color:var(--va-muted)}:where(html[data-custom]) .tip p{color:var(--va-muted)}:where(html[data-custom]) .empty>span{color:var(--va-muted)}:where(html[data-custom]) footer{color:var(--va-muted)}:where(html[data-custom]) .count-badge{color:var(--va-muted)}:where(html[data-custom]) .library-card p{color:var(--va-muted)}:where(html[data-custom]) .secondary{border:1px solid var(--va-line);background:var(--va-paper);color:var(--va-muted)}:where(html[data-custom]) .settings-grid p{color:var(--va-muted)}:where(html[data-custom]) #toast{background:var(--va-accent);color:var(--va-onaccent)}:where(html[data-custom]) #image-error{color:var(--va-muted)}@media(max-width:1100px){}@media(max-width:850px){}@media(max-width:620px){}:where(html[data-custom]) .conflict{border:1px solid var(--va-line);background:var(--va-paper);color:var(--va-muted)}:where(html[data-custom]) .conflict details{border-top:1px solid var(--va-line)}:where(html[data-custom]) .conflict blockquote{border-left:2px solid var(--va-line)}:where(html[data-custom]) .conflict img{border:1px solid var(--va-line)}:where(html[data-custom]) #provenance>a{color:var(--va-muted)}:where(html[data-custom]) #courses .active{background:var(--va-tint);color:var(--va-ink)}
+@media(max-width:850px){:where(html[data-custom]) .tools-nav .active{background:var(--va-tint)}}@media(max-width:620px){}:where(html[data-custom]) .source-detail summary{color:var(--va-muted)}:where(html[data-custom]) .source-detail blockquote{border-left:2px solid var(--va-line)}:where(html[data-custom]) .source-detail small{color:var(--va-muted)}:where(html[data-custom]) .conflict a{color:var(--va-muted)}:where(html[data-custom]) .scope-note{border-left:2px solid var(--va-line);background:var(--va-tint)}:where(html[data-custom]) .archive-action:hover{background:var(--va-tint)}:where(html[data-custom]) .library-switch{background:var(--va-tint)}:where(html[data-custom]) .library-switch button{color:var(--va-muted)}:where(html[data-custom]) #toast button{border:1px solid var(--va-line);color:var(--va-onaccent)}@media(max-width:620px){}:where(html[data-custom]) .home-metrics span{color:var(--va-muted)}:where(html[data-custom]) .home-focus{background:var(--va-tint);border:1px solid var(--va-line)}:where(html[data-custom]) .home-focus p{color:var(--va-muted)}:where(html[data-custom]) .home-course:hover{border-color:var(--va-line)}:where(html[data-custom]) .home-course span{color:var(--va-muted)}:where(html[data-custom]) .round-clock{color:var(--va-muted)}:where(html[data-custom]) .round-clock strong{color:var(--va-muted)}:where(html[data-custom]) .round-summary{background:var(--va-tint)}:where(html[data-custom]) .preference small{color:var(--va-muted)}:where(html[data-custom]) .daily-reminder{background:var(--va-tint)}@media(max-width:620px){}:where(html[data-custom]) .sidebar{background:var(--va-tint);border-color:var(--va-line)}:where(html[data-custom]) .nav-label{color:var(--va-muted)}:where(html[data-custom]) .tools-nav button,:where(html[data-custom]) #courses button{color:var(--va-muted)}:where(html[data-custom]) .tools-nav .active,:where(html[data-custom]) #courses .active{background:var(--va-tint);color:var(--va-ink)}:where(html[data-custom]) .tools-nav button:hover,:where(html[data-custom]) #courses button:hover{background:var(--va-tint)}:where(html[data-custom]) .sidebar-bottom p{color:var(--va-muted)}:where(html[data-custom]) .sidebar-bottom small{color:var(--va-muted)}:where(html[data-custom]) header .eyebrow{color:var(--va-muted)}:where(html[data-custom]) .breadcrumb{color:var(--va-muted)}:where(html[data-custom]) .avatar{background:var(--va-tint);color:var(--va-ink);border:1px solid var(--va-line)}:where(html[data-custom]) .eyebrow{color:var(--va-muted)}:where(html[data-custom]) #profile-invite{border-bottom:1px solid var(--va-line)}:where(html[data-custom]) .home-focus{border:1px solid var(--va-line);background:var(--va-accent);color:var(--va-onaccent)}:where(html[data-custom]) .home-focus .eyebrow{color:var(--va-onaccent)}:where(html[data-custom]) .home-focus p{color:var(--va-onaccent)}:where(html[data-custom]) .secondary{background:var(--va-tint);color:var(--va-ink);border-color:var(--va-line)}:where(html[data-custom]) .home-focus .primary{background:var(--va-tint);border-color:var(--va-line);color:var(--va-ink)}:where(html[data-custom]) .home-focus .primary:hover{background:var(--va-tint)}:where(html[data-custom]) .home-focus .secondary{border-color:var(--va-line);color:var(--va-onaccent)}:where(html[data-custom]) .home-focus .secondary:hover{background:var(--va-accent)}:where(html[data-custom]) .art-card.back{background:var(--va-accent);border:1px solid var(--va-line)}:where(html[data-custom]) .art-card.front{background:var(--va-tint);border:1px solid var(--va-line)}:where(html[data-custom]) .art-card i{background:var(--va-accent)}:where(html[data-custom]) .art-card b{color:var(--va-ink)}:where(html[data-custom]) .art-card b span{color:var(--va-muted)}:where(html[data-custom]) .art-caption{color:var(--va-onaccent)}:where(html[data-custom]) .home-metrics strong{color:var(--va-ink)}:where(html[data-custom]) .home-metrics span{color:var(--va-muted)}:where(html[data-custom]) .section-note{color:var(--va-muted)}:where(html[data-custom]) .home-course{border:1px solid var(--va-line);background:var(--va-paper)}:where(html[data-custom]) .home-course:hover{border-color:var(--va-line);background:var(--va-paper)}:where(html[data-custom]) .home-course .course-symbol{background:var(--va-tint);border:1px solid var(--va-line);color:var(--va-muted)}:where(html[data-custom]) .home-course:nth-child(2n) .course-symbol{background:var(--va-tint);border-color:var(--va-line);color:var(--va-muted)}:where(html[data-custom]) .home-course .course-arrow{color:var(--va-muted)}:where(html[data-custom]) .home-course span{color:var(--va-muted)}:where(html[data-custom]) .home-course .course-progress{background:var(--va-tint)}:where(html[data-custom]) .course-progress i{background:var(--va-accent)}:where(html[data-custom]) .home-course small{color:var(--va-muted)}:where(html[data-custom]) .text{color:var(--va-muted)}:where(html[data-custom]) .text:hover{color:var(--va-ink)}:where(html[data-custom]) .is-loading .data-slot:after{background:var(--va-tint)}:where(html[data-custom]) .is-loading .home-focus .data-slot:after{background:var(--va-accent)}:where(html[data-custom]) .skeleton-course:before,:where(html[data-custom]) .skeleton-course:after{background:var(--va-tint)}:where(html[data-custom]) .is-loading #courses:before{background:linear-gradient(var(--va-tint) 0 28%,transparent 28% 35%,var(--va-tint) 35% 63%,transparent 63% 70%,var(--va-tint) 70% 98%)}:where(html[data-custom]) .today{background:var(--va-tint)}:where(html[data-custom]) .today small{color:var(--va-muted)}:where(html[data-custom]) .toolbar{color:var(--va-muted)}:where(html[data-custom]) .card{border:1px solid var(--va-line);background:var(--va-paper)}:where(html[data-custom]) .chip{background:var(--va-tint);color:var(--va-muted)}:where(html[data-custom]) .star:hover{background:var(--va-tint)}:where(html[data-custom]) .card-id{color:var(--va-muted)}:where(html[data-custom]) .hint{color:var(--va-muted)}:where(html[data-custom]) .answer{background:var(--va-tint);color:var(--va-ink)}:where(html[data-custom]) .source{color:var(--va-muted)}:where(html[data-custom]) .source-detail summary{color:var(--va-muted)}:where(html[data-custom]) .conflict{color:var(--va-muted);border-color:var(--va-line)}:where(html[data-custom]) .ratings button{background:var(--va-tint);border-color:var(--va-line);color:var(--va-ink)}:where(html[data-custom]) .ratings button:first-child{background:var(--va-tint);border-color:var(--va-line);color:var(--va-muted)}:where(html[data-custom]) .ratings button:nth-child(3){background:var(--va-tint)}:where(html[data-custom]) .ratings button:last-child{background:var(--va-tint)}:where(html[data-custom]) .pagination>span{color:var(--va-muted)}:where(html[data-custom]) .panel{border:1px solid var(--va-line)}:where(html[data-custom]) .panel-heading small{color:var(--va-muted)}:where(html[data-custom]) .progress-number span{color:var(--va-muted)}:where(html[data-custom]) .modes button{color:var(--va-muted)}:where(html[data-custom]) .modes .selected{background:var(--va-tint);color:var(--va-ink)}:where(html[data-custom]) select{color:var(--va-muted);border-color:var(--va-line);background:var(--va-paper)}:where(html[data-custom]) .seen{color:var(--va-muted)}:where(html[data-custom]) .seen strong{color:var(--va-muted)}:where(html[data-custom]) .round-clock{color:var(--va-muted)}:where(html[data-custom]) .round-summary{color:var(--va-muted)}:where(html[data-custom]) .settings-grid p{color:var(--va-muted)}:where(html[data-custom]) .preference small{color:var(--va-muted)}:where(html[data-custom]) .preference input{background:var(--va-tint);border:1px solid var(--va-line)}:where(html[data-custom]) .preference input:before{background:var(--va-paper)}:where(html[data-custom]) .preference input:checked{background:var(--va-accent);border-color:var(--va-line)}:where(html[data-custom]) .library-card h3{color:var(--va-ink)}:where(html[data-custom]) .library-card p{color:var(--va-muted)}:where(html[data-custom]) .count-badge{color:var(--va-muted)}:where(html[data-custom]) footer{color:var(--va-muted)}:where(html[data-custom]) #toast{background:var(--va-accent)}
+@media(min-width:1450px){}
+@media(max-width:1100px){}
+@media(max-width:850px){:where(html[data-custom]) .sidebar{background:var(--va-tint)}:where(html[data-custom]) .tools-nav .active{background:var(--va-tint)}:where(html[data-custom]) .is-loading #courses:before{background:linear-gradient(90deg,var(--va-tint) 0 30%,transparent 30% 33%,var(--va-tint) 33% 63%,transparent 63% 66%,var(--va-tint) 66% 96%)}}
+@media(max-width:700px){}
+@media(max-width:480px){}
+@media(prefers-reduced-motion:reduce){}@media(hover:none){}
+@media(max-width:850px){:where(html[data-custom]) .tools-nav{background:var(--va-paper);border-top:1px solid var(--va-line)}}
+@media(max-width:700px){}:where(html[data-custom]) .compact-focus .home-buttons button:disabled{color:var(--va-muted);border-color:var(--va-line)}:where(html[data-custom]) .home-resume-row{color:var(--va-onaccent)}:where(html[data-custom]) .home-resume-row .text{color:var(--va-onaccent)}:where(html[data-custom]) .home-course .answer-stat{background:var(--va-tint)}:where(html[data-custom]) .home-course .answer-stat b{color:var(--va-muted)}:where(html[data-custom]) .home-course .answer-stat span{color:var(--va-muted)}:where(html[data-custom]) .home-course .answer-stat.again{background:var(--va-tint)}:where(html[data-custom]) .home-course .answer-stat.again b{color:var(--va-muted)}:where(html[data-custom]) .home-course .answer-stat.good{background:var(--va-tint)}:where(html[data-custom]) .home-course .answer-stat.easy{background:var(--va-tint)}
+@media(max-width:700px){}
+@media(prefers-reduced-motion:reduce){}:where(html[data-custom]) .home-course{border-color:var(--va-line)}:where(html[data-custom]) .home-course:hover{background:var(--va-paper);border-color:var(--va-line)}:where(html[data-custom]) .home-course .course-meta{color:var(--va-muted)}:where(html[data-custom]) .home-course .course-arrow{color:var(--va-muted)}:where(html[data-custom]) .home-course .course-status{color:var(--va-muted)}:where(html[data-custom]) .home-course .course-status.is-due{color:var(--va-muted)}:where(html[data-custom]) .home-course .distribution-label{color:var(--va-muted)}:where(html[data-custom]) .home-course .answer-stat,:where(html[data-custom]) .home-course .answer-stat.again,:where(html[data-custom]) .home-course .answer-stat.good,:where(html[data-custom]) .home-course .answer-stat.easy{border-right:1px solid var(--va-line)}:where(html[data-custom]) .home-course .answer-stat b,:where(html[data-custom]) .home-course .answer-stat.again b{color:var(--va-ink)}:where(html[data-custom]) .home-course .answer-stat span{color:var(--va-muted)}:where(html[data-custom]) .home-course .answer-stat span:before{background:var(--va-accent)}:where(html[data-custom]) .home-course .answer-stat.again span:before{background:var(--va-accent)}:where(html[data-custom]) .home-course .answer-stat.good span:before{background:var(--va-accent)}:where(html[data-custom]) .home-course .answer-stat.easy span:before{background:var(--va-accent)}:where(html[data-custom]) .home-course>small:last-child{border-top:1px solid var(--va-line);color:var(--va-muted)}:where(html[data-custom]) .home-course .course-unstarted{border-top:1px solid var(--va-line)}:where(html[data-custom]) .home-course .course-unstarted .unstarted-title{color:var(--va-muted)}:where(html[data-custom]) .home-course .course-unstarted span:last-child{color:var(--va-muted)}
+@media(max-width:700px){}
+@media(max-width:480px){}:where(html[data-custom]) .home-course .course-identity strong{color:var(--va-ink)}@media(max-width:480px){}:where(html[data-custom]) .library-card:hover{border-color:var(--va-line)}:where(html[data-custom]) #card-preview{border:1px solid var(--va-line)}:where(html[data-custom]) .preview-close{background:var(--va-tint);color:var(--va-muted)}:where(html[data-custom]) .preview-actions{background:var(--va-paper)}:where(html[data-custom]) .preview-manage [aria-pressed=true]{color:var(--va-muted)}:where(html[data-custom]) .preview-archived{background:var(--va-tint)}@keyframes preview-in{}@media(prefers-reduced-motion:reduce){}@media(max-width:480px){}:where(html[data-custom]) .library-empty-mark{background:var(--va-tint);color:var(--va-muted)}:where(html[data-custom]) .library-empty p{color:var(--va-muted)}:where(html[data-custom]) .library-empty .secondary:hover{background:var(--va-tint)}@media(max-width:620px){}:where(html[data-custom]) .mix-dialog{border:1px solid var(--va-line);background:var(--va-paper);color:var(--va-ink)}:where(html[data-custom]) .mix-dialog p{color:var(--va-muted)}:where(html[data-custom]) .mix-group{border-bottom:1px solid var(--va-line)}:where(html[data-custom]) .mix-group summary small{color:var(--va-muted)}:where(html[data-custom]) .mix-topics label{background:var(--va-paper);border:1px solid var(--va-line)}:where(html[data-custom]) .mix-topics label:has(:checked){background:var(--va-tint);border-color:var(--va-line);color:var(--va-ink)}:where(html[data-custom]) .mix-dialog input[type=checkbox]{accent-color:var(--va-accent)}:where(html[data-custom]) .mix-dialog .mix-footer{border-top:1px solid var(--va-line);background:var(--va-paper)}:where(html[data-custom]) .mix-dialog .mix-footer span{color:var(--va-muted)}@media(max-width:540px){}:where(html[data-custom]) .mix-all>span{color:var(--va-muted)}:where(html[data-custom]) .mix-all button{border:1px solid var(--va-line);background:var(--va-tint)}:where(html[data-custom]) .mix-all button[aria-pressed=true]{color:var(--va-muted);background:var(--va-tint)}@media(max-width:540px){}
+
+
+html[data-custom]{--bg:var(--va-bg);--paper:var(--va-paper);--ink:var(--va-ink);--muted:var(--va-muted);--green:var(--va-accent);--line:var(--va-line)}
+html[data-custom] .home-focus{background:var(--va-hero);color:#fffaf3}
+html[data-custom] .home-focus :is(p,.eyebrow,.secondary){color:#f1e8df}
+html[data-custom] .home-focus .primary{background:#f6eee4;color:#292622}
+html[data-custom] .home-focus .secondary{background:transparent}
+html[data-custom] .ratings button{background:#eee8db;border-color:#cfc3ab;color:#5b492b}
+html[data-custom] .ratings button:first-child{background:#f6e4dd;color:#793c31}
+html[data-custom] .ratings button:nth-child(3){background:#e5eedf;color:#385337}
+html[data-custom] .ratings button:last-child{background:#d4e6d5;color:#294c35}
+html[data-tone="dark"] .ratings button{background:#41382a;color:#eed5a6}
+html[data-tone="dark"] .ratings button:first-child{background:#49302c;color:#f2bcae}
+html[data-tone="dark"] .ratings button:nth-child(3){background:#2c3d32;color:#c8dcc3}
+html[data-tone="dark"] .ratings button:last-child{background:#344c3c;color:#d5ead5}
+.appearance label{display:block;color:var(--ink);margin:14px 0 6px;font-weight:600}
+.appearance select{width:100%;min-height:44px;color:var(--ink);background-color:var(--paper);border:1px solid var(--line);border-radius:9px;padding:8px}
+.appearance-swatches{display:flex;gap:5px;margin-top:12px}.appearance-swatches i{width:24px;height:12px;border-radius:6px;background:var(--va-tint);border:1px solid var(--va-line)}.appearance-swatches i:nth-child(2){background:var(--va-muted)}.appearance-swatches i:last-child{background:var(--va-accent)}
+html[data-custom] #star[aria-pressed="true"]{color:var(--va-accent)}
