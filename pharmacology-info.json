@@ -1,0 +1,795 @@
+{
+  "sourcePages": 64,
+  "draftCards": 1301,
+  "studyCards": 1091,
+  "mergedDrafts": 168,
+  "reviewItems": [
+    {
+      "question": "Kaynakta hepatik kan akımını azaltarak kendi biyoyararlanımını artırdığı belirtilen beta bloker hangisidir?",
+      "reason": "Propranololün kendi biyoyararlanımını hepatik akım üzerinden artırması ilişkisi ayrıca doğrulanmalı.",
+      "refs": [
+        {
+          "book": "check",
+          "page": 2,
+          "item": "38",
+          "quote": "Karaciger kan akimini azaltarak kendi biyoyararlanimini artiran? Propranolol",
+          "image": "assets/sources/check-p2-i38.webp",
+          "imageKind": "crop"
+        }
+      ],
+      "rawId": "check1_cards:46"
+    },
+    {
+      "question": "Klinik geliştirmede etkinlik sinyalinin değerlendirildiği ve başarısızlığın sık olduğu faz hangisidir?",
+      "reason": "En fazla başarısızlık fazı veri setine göre değişir; kesin üstünlük doğrulanmadı.",
+      "refs": [
+        {
+          "book": "check",
+          "page": 3,
+          "item": "67",
+          "quote": "Klinik denemeler arasinda en fazla ilag basarisizligi? Faz |!",
+          "image": "assets/sources/check-p3-i67.webp",
+          "imageKind": "crop"
+        }
+      ],
+      "rawId": "check1_cards:96"
+    },
+    {
+      "question": "Kaynakta SSS'ye geçebilen oksim olarak hangisi belirtilir?",
+      "reason": "Diasetilmonoksim/Santral penetrasyon ve klinik kullanım bilgisi ayrıca doğrulanmalı.",
+      "refs": [
+        {
+          "book": "check",
+          "page": 4,
+          "item": "84",
+          "quote": "Santral sinir sistemine gegen kolinesteraz reaktivatoru? Diasetilmonoksim\n(Gegemeyenler: Pralidoksim ve Obidoksim)",
+          "image": "assets/sources/check-p4-i84.webp",
+          "imageKind": "crop"
+        }
+      ],
+      "rawId": "check1_cards:121"
+    },
+    {
+      "question": "Kaynakta potasyum kanalı açıcı beta bloker olarak hangisi verilir?",
+      "reason": "Tilisololün K kanalı aktivasyonu ilişkisi birincil kaynakla doğrulanamadı.",
+      "refs": [
+        {
+          "book": "check",
+          "page": 5,
+          "item": "117",
+          "quote": "K kanal aktivasyonu yapan 3.kusak beta blok6r? Tilisolol",
+          "image": "assets/sources/check-p5-i117.webp",
+          "imageKind": "crop"
+        }
+      ],
+      "rawId": "check1_cards:161"
+    },
+    {
+      "question": "Beta blokerler MI sonrasında her hastada süresiz mortalite yararı sağlar mı?",
+      "reason": "MI sonrası mortalite yararı listesi modern tedavi ve EF bağlamı olmadan yanıltıcıdır.",
+      "refs": [
+        {
+          "book": "check",
+          "page": 5,
+          "item": "122",
+          "quote": "Miyokard infarktUsi sonrasi! mortaliteyi azaltanlar? Timolol, Atenolol,\nMetoprolol",
+          "image": "assets/sources/check-p5-i122.webp",
+          "imageKind": "crop"
+        }
+      ],
+      "rawId": "check1_cards:170"
+    },
+    {
+      "question": "Kaynakta uzun etkili nitrat örneği olarak hangisi verilir?",
+      "reason": "En uzun etkili nitrat üstünlüğü doğrulanmadı; yalnız kaynak örneği.",
+      "refs": [
+        {
+          "book": "check",
+          "page": 6,
+          "item": "150",
+          "quote": "En uzun etkili nitrat? Pentaeritriol tetranitrat",
+          "image": "assets/sources/check-p6-i150.webp",
+          "imageKind": "crop"
+        }
+      ],
+      "rawId": "check1_cards:203"
+    },
+    {
+      "question": "Kaynağın potasyum iyodür için “kalıcı hipotiroidiyi engeller” ifadesi nasıl değerlendirilmelidir?",
+      "reason": "Potasyum iyodürün kalıcı hipotiroidiyi engellemesi hangi maruziyet/tedavi bağlamında söylendiği belirsiz.",
+      "refs": [
+        {
+          "book": "check",
+          "page": 7,
+          "item": "178",
+          "quote": "Kalici hipotirodiyi engelleyen? Potasyum iodid",
+          "image": "assets/sources/check-p7-i178.webp",
+          "imageKind": "crop"
+        }
+      ],
+      "rawId": "check2_cards:27"
+    },
+    {
+      "question": "Kaynağın “idroksilamid/idrosilamid ALS ilacı” ifadesi doğrulanmış mıdır?",
+      "reason": "İdrosilamid adı ve ALS endikasyonu güvenilir kaynakla doğrulanamadı.",
+      "refs": [
+        {
+          "book": "check",
+          "page": 9,
+          "item": "216",
+          "quote": "Glutamat iletisini baskilayan ALS ilaci? idrosilamid",
+          "image": "assets/sources/check-p9-i216.webp",
+          "imageKind": "crop"
+        }
+      ],
+      "rawId": "check2_cards:84"
+    },
+    {
+      "question": "Etanol metabolizmasındaki MEOS'un başlıca CYP enzimi hangisidir?",
+      "reason": "Etanol metabolizmasının NAD eksikliğiyle MEOS yoluna kayması iddiasının bağlamı doğrulanmadı.",
+      "refs": [
+        {
+          "book": "check",
+          "page": 9,
+          "item": "219",
+          "quote": "Etanol metabolizmasini CYP yoluna (MEOS: mikrozomal etanol oksitleyici\nsistem) kaydiran? NAD eksikligi",
+          "image": "assets/sources/check-p9-i219.webp",
+          "imageKind": "crop"
+        }
+      ],
+      "rawId": "check2_cards:87"
+    },
+    {
+      "question": "ALDH2 aktivitesinin azalması alkol alımından sonra neye yol açar?",
+      "reason": "Kaynak etnik kökeni deterministik kullanıyor; genetik/enzimatik açıklama doğrulanmadan aktif karta alınmamalı.",
+      "refs": [
+        {
+          "book": "check",
+          "page": 9,
+          "item": "220",
+          "quote": "Alkol dehidrogenaz fazla, aldehit dehidrogenaz az calisirsa alkolizm az olur,\nhangi irk? Cin ve Japon",
+          "image": "assets/sources/check-p9-i220.webp",
+          "imageKind": "crop"
+        }
+      ],
+      "rawId": "check2_cards:88"
+    },
+    {
+      "question": "Kaynakta disülfiram benzeri reaksiyonla ilişkilendirilen diğer ilaçlar hangileridir?",
+      "reason": "Metronidazol için disülfiram benzeri reaksiyon kanıtı tartışmalı; tüm liste kesin bilgi gibi sunulmamalı.",
+      "refs": [
+        {
+          "book": "check",
+          "page": 9,
+          "item": "221",
+          "quote": "Disulfiram  benzeri reaksiyon Klorpropamid, Tolbutamid, Metronidazol,\nSefoperazon, Sefotetan",
+          "image": "assets/sources/check-p9-i221.webp",
+          "imageKind": "crop"
+        }
+      ],
+      "rawId": "check2_cards:90"
+    },
+    {
+      "question": "Kaynağın histamin salınımı için verdiği “MAST” ezberi neden tek başına kartlaştırılmadı?",
+      "reason": "MAST ezberinin açılımı kaynakta verilmemiş.",
+      "refs": [
+        {
+          "book": "check",
+          "page": 9,
+          "item": "230",
+          "quote": "Histamin saliveren? MAST ile baslayan",
+          "image": "assets/sources/check-p9-i230.webp",
+          "imageKind": "crop"
+        }
+      ],
+      "rawId": "check2_cards:104"
+    },
+    {
+      "question": "Nalbufin, butorfanol ve pentazosin buprenorfinle aynı reseptör profiline mi sahiptir?",
+      "reason": "Karma agonist-antagonistlerin ayrı reseptör profilleri ürün bilgileriyle doğrulanmalı.",
+      "refs": [
+        {
+          "book": "check",
+          "page": 11,
+          "item": "285",
+          "quote": "Opiyat bagimlilik tedavisi, mi reseptdriine parsiyel agonist, delta ve kappa\nreseptorlerine antagonist olan? Buprenorfin (Diger parsiyel agonistler;\nnalorfin, nalbufin, butorfanol, pentazosin)",
+          "image": "assets/sources/check-p11-i285.webp",
+          "imageKind": "crop"
+        }
+      ],
+      "rawId": "check2_cards:189"
+    },
+    {
+      "question": "Kaynakta arteriol dilatasyonu ve ven kontraksiyonuyla ilişkilendirilen mediyatörler hangileridir?",
+      "reason": "Mediyatörlerin ven ve arteriol etkilerinin bu mutlak biçimi doğrulanmadı.",
+      "refs": [
+        {
+          "book": "check",
+          "page": 12,
+          "item": "295",
+          "quote": "Arteriol dilatasyon, vent kontraksiyon? P maddesi, Bradikinin",
+          "image": "assets/sources/check-p12-i295.webp",
+          "imageKind": "crop"
+        }
+      ],
+      "rawId": "check2_cards:201"
+    },
+    {
+      "question": "Tiaprofenik asidin “kıkırdak hasarı yapmaz” ifadesi kesin bir klinik özellik midir?",
+      "reason": "Tiaprofenik asidin kıkırdak güvenliliği konusunda mutlak kaynak iddiası doğrulanmadı.",
+      "refs": [
+        {
+          "book": "check",
+          "page": 12,
+          "item": "317",
+          "quote": "— Kikirdak hasar! yapmadan NSAii? Tiaprofenik asit",
+          "image": "assets/sources/check-p12-i317.webp",
+          "imageKind": "crop"
+        }
+      ],
+      "rawId": "check2_cards:229"
+    },
+    {
+      "question": "Flurbiprofenin “dişli çark belirtisi ve ataksi yapar” ifadesi doğrulanmış mıdır?",
+      "reason": "Flurbiprofen için verilen dişli çark/ataksi eşleşmesi güvenilir biçimde doğrulanmadı.",
+      "refs": [
+        {
+          "book": "check",
+          "page": 12,
+          "item": "318",
+          "quote": "_ Disli cark belirtisi ve ataksi yapan NSAii? Fluribuprofen",
+          "image": "assets/sources/check-p12-i318.webp",
+          "imageKind": "crop"
+        }
+      ],
+      "rawId": "check2_cards:230"
+    },
+    {
+      "question": "Kurşun, arsenik ve bazı cıva zehirlenmelerinde kullanılabilen şelatörlere örnek ver.",
+      "reason": "Metal türü ve klinik bağlama göre şelatör seçimi değişir. Bu geniş ortak şelatör eşleştirmesi tam primer kaynak doğrulaması yapılana kadar tekrar havuzuna alınmamalı.",
+      "refs": [
+        {
+          "book": "check",
+          "page": 17,
+          "item": "453",
+          "quote": "Kursun, arsenik, civa ortak antidotlar? Dimerkaprol, Penisilamin, Stksimer\n(Kursun: EDTA)",
+          "image": "assets/sources/check-p17-i453.webp",
+          "imageKind": "crop"
+        }
+      ],
+      "rawId": "check3_cards:203"
+    },
+    {
+      "question": "CYP inhibisyonunun asetaminofen toksisitesini azalttığı iddiası nasıl değerlendirilmelidir?",
+      "reason": "Valproatın CYP inhibisyonu üzerinden asetaminofen toksisitesini azalttığı genellemesi yeterli primer kanıtla doğrulanmadı.",
+      "refs": [
+        {
+          "book": "check",
+          "page": 13,
+          "item": "321",
+          "quote": "CYP inhibisyonu (valproik asit), asetaminofen toksisitesini ne yapar? Azaltir",
+          "image": "assets/sources/check-p13.webp",
+          "imageKind": "page"
+        }
+      ],
+      "rawId": "check3_cards:210"
+    },
+    {
+      "question": "Hiperglisemiyle ilişkilendirilen antihipertansif/diüretik örnekleri nelerdir?",
+      "reason": "Minoksidil hiperglisemisi iddiası doğrulanmadı; bu kart needsReview olarak ayrıldı.",
+      "refs": [
+        {
+          "book": "mia",
+          "page": 12,
+          "item": "127",
+          "quote": "Hiperglisemi oluşturan antihipertansifler…Tiazidler, Furosemid, Diazoksid, Minoksidil",
+          "image": "assets/sources/mia-p12-i127.webp",
+          "imageKind": "crop"
+        },
+        {
+          "book": "mia",
+          "page": 13,
+          "item": "127",
+          "quote": "Hiperglisemi oluşturan antihipertansifler…Tiazidler, Furosemid, Diazoksid, Minoksidil",
+          "image": "assets/sources/mia-p13-i127.webp",
+          "imageKind": "crop"
+        }
+      ],
+      "rawId": "mia1_cards:157"
+    },
+    {
+      "question": "Andeksanet alfa hangi antikoagülanların etkisini geri çevirmek için geliştirilmiştir?",
+      "reason": "Andeksanet alfa için tüm Xa inhibitörlerini kapsayan rutin ruhsat genellemesi doğrulama bekliyor.",
+      "refs": [
+        {
+          "book": "mia",
+          "page": 14,
+          "item": "136",
+          "quote": "İdarucizumab… Dabigatran (DTI) antagonisti. Andeksanet alfa ise rivaroksaban, apiksaban,\nedoksaban’ın antagonistidir.",
+          "image": "assets/sources/mia-p14-i136.webp",
+          "imageKind": "crop"
+        }
+      ],
+      "rawId": "mia1_cards:167"
+    },
+    {
+      "question": "Koenzim Q10 — kaynak iddiası neden incelemede?",
+      "reason": "Koenzim Q10 için Parkinson, iskemik kalp hastalığı ve statin miyopatisinde kesin düzelme iddiası kanıt/güncel kılavuz doğrulaması gerektirir.",
+      "refs": [
+        {
+          "book": "mia",
+          "page": 15,
+          "item": "153",
+          "quote": "Koenzim Q10… Parkinson ve iskemik kalp hastalığında düzelme, statin myopatisinde ağrı\nazalması",
+          "image": "assets/sources/mia-p15-i153.webp",
+          "imageKind": "crop"
+        },
+        {
+          "book": "mia",
+          "page": 16,
+          "item": "153",
+          "quote": "Koenzim Q10… Parkinson ve iskemik kalp hastalığında düzelme, statin myopatisinde ağrı\nazalması",
+          "image": "assets/sources/mia-p16-i153.webp",
+          "imageKind": "crop"
+        }
+      ],
+      "rawId": "mia1_cards:199"
+    },
+    {
+      "question": "Laktasyonda bebeği en çok etkileyen ilaçlar sırasıyla en çok dan en aza — kaynak iddiası neden incelemede?",
+      "reason": "Laktasyonda bebek etkisi için tek bir doğrusal ilaç sıralaması güvenilir değildir; doz, bebek yaşı ve klinik bağlama göre değerlendirilmelidir.",
+      "refs": [
+        {
+          "book": "mia",
+          "page": 15,
+          "item": "155",
+          "quote": "Laktasyonda bebeği en çok etkileyen ilaçlar sırasıyla en çok dan en aza… Amiodaron:\nKloramfenikol: Eroin:İyot:Metadon > fenobarbital: Teofilin:Fenitoin > Ampisilin,Digoksin,Varfarin",
+          "image": "assets/sources/mia-p15-i155.webp",
+          "imageKind": "crop"
+        },
+        {
+          "book": "mia",
+          "page": 16,
+          "item": "155",
+          "quote": "Laktasyonda bebeği en çok etkileyen ilaçlar sırasıyla en çok dan en aza… Amiodaron:\nKloramfenikol: Eroin:İyot:Metadon > fenobarbital: Teofilin:Fenitoin > Ampisilin,Digoksin,Varfarin",
+          "image": "assets/sources/mia-p16-i155.webp",
+          "imageKind": "crop"
+        }
+      ],
+      "rawId": "mia1_cards:200"
+    },
+    {
+      "question": "Lumiracoxib — kaynak iddiası neden incelemede?",
+      "reason": "Lumirakoksib için “COX-2 selektivitesi en yüksek” sıralaması assay/karşılaştırıcıya bağlıdır; güncel ruhsat ve hepatotoksisite durumu ayrıca doğrulanmalı.",
+      "refs": [
+        {
+          "book": "mia",
+          "page": 15,
+          "item": "164",
+          "quote": "Lumiracoxib… COX-2 selektivitesi en yüksek NSAİ",
+          "image": "assets/sources/mia-p15-i164.webp",
+          "imageKind": "crop"
+        },
+        {
+          "book": "mia",
+          "page": 16,
+          "item": "164",
+          "quote": "Lumiracoxib… COX-2 selektivitesi en yüksek NSAİ",
+          "image": "assets/sources/mia-p16-i164.webp",
+          "imageKind": "crop"
+        }
+      ],
+      "rawId": "mia1_cards:201"
+    },
+    {
+      "question": "Vikrivirok hangi HIV ilaç mekanizmasına örnektir?",
+      "reason": "Kaynak maravirok ile vikriviroku aynı listede verir; vikrivirokun araştırma ilacı statüsü standart onaylı tedavi gibi gösterilmemelidir.",
+      "refs": [
+        {
+          "book": "mia",
+          "page": 17,
+          "item": "168",
+          "quote": "Maraviroc / Vicriviroc… CCR5 inhibitörleri, CCR5 kemokin reseptörüne HIV zarf proteini gp120’nin bağlanmasını bloke ederek HIV virüsünün hücreye girişini engeller.",
+          "image": "assets/sources/mia-p17-i168.webp",
+          "imageKind": "crop"
+        }
+      ],
+      "rawId": "mia2_cards:4"
+    },
+    {
+      "question": "H1 antagonizmasına ek mast hücresi stabilizasyonuyla ilişkilendirilen antihistaminikler hangileridir?",
+      "reason": "Listedeki ilaçlar için klinik mast hücre stabilizatörü sınıflaması ve deneysel antiinflamatuvar etkiler ayrılmalı.",
+      "refs": [
+        {
+          "book": "mia",
+          "page": 17,
+          "item": "169",
+          "quote": "Mast hücre stabilizasyonu oluşturan Histamin-1 reseptör antagonistleri… Setirizin, desloratadin, feksofenedin, olopatadin, ketotifen",
+          "image": "assets/sources/mia-p17-i169.webp",
+          "imageKind": "crop"
+        }
+      ],
+      "rawId": "mia2_cards:5"
+    },
+    {
+      "question": "Palosuranın farmakolojik hedefi nedir?",
+      "reason": "Palosuranın diyabetik renal hasarda standart onaylı tedavi olarak gösterilmesi doğrulanmadı; araştırma ilacı olarak ele alınmalı.",
+      "refs": [
+        {
+          "book": "mia",
+          "page": 18,
+          "item": "189",
+          "quote": "Palosuran… Ürotensin antagonisti, diabetik renal hasar tedavisi",
+          "image": "assets/sources/mia-p18-i189.webp",
+          "imageKind": "crop"
+        }
+      ],
+      "rawId": "mia2_cards:32"
+    },
+    {
+      "question": "Alefasept ve efalizumabın tarihi immünolojik hedefleri nelerdir?",
+      "reason": "Kaynak bu ajanları güncel standart tedavi gibi listeliyor; efalizumab PML riskiyle geri çekilmiştir, alefasept pazarlaması durdurulmuştur.",
+      "refs": [
+        {
+          "book": "mia",
+          "page": 20,
+          "item": "212",
+          "quote": "Psöriyazis tedavisi…Alefacept (LFA3-CD2 ilişkisini bozar, T lenfosit inhibitörü, Efalizumab (LFA-1 CD11- ICAM ilişkisini bozar), İL17 antagonistleri (İksekizumab, sekukinumab, (brodalumab;reseptör antagonisti)",
+          "image": "assets/sources/mia-p20-i212.webp",
+          "imageKind": "crop"
+        },
+        {
+          "book": "mia",
+          "page": 21,
+          "item": "212",
+          "quote": "Psöriyazis tedavisi…Alefacept (LFA3-CD2 ilişkisini bozar, T lenfosit inhibitörü, Efalizumab (LFA-1 CD11- ICAM ilişkisini bozar), İL17 antagonistleri (İksekizumab, sekukinumab, (brodalumab;reseptör antagonisti)",
+          "image": "assets/sources/mia-p21-i212.webp",
+          "imageKind": "crop"
+        }
+      ],
+      "rawId": "mia2_cards:64"
+    },
+    {
+      "question": "QT’yi uzatabilen antiaritmiklere örnekler nelerdir?",
+      "reason": "Kaynağın amiodaron > diğerleri sıralaması QT artışı/torsades riskini karıştırabilir; sıralama doğrulanmadı.",
+      "refs": [
+        {
+          "book": "mia",
+          "page": 20,
+          "item": "211",
+          "quote": "QT uzaması oluşturanlar… Amiodaron> Ibutulid, Dofetilid, Sotalol, Prokainamid, Dizopirimid, Kinidin",
+          "image": "assets/sources/mia-p20.webp",
+          "imageKind": "page"
+        },
+        {
+          "book": "mia",
+          "page": 21,
+          "item": "221",
+          "quote": "QT uzaması oluşturanlar… Amiodaron> Ibutulid, Dofetilid, Sotalol, Prokainamid, Dizopirimid, Kinidin",
+          "image": "assets/sources/mia-p21-i221.webp",
+          "imageKind": "crop"
+        }
+      ],
+      "rawId": "mia2_cards:73"
+    },
+    {
+      "question": "AV iletimi yavaşlatıp PR uzamasına yol açabilen ilaçlara kaynak örnekleri nedir?",
+      "reason": "Kaynağın kesin büyüklük sıralaması bağlama ve doza bağlı; sıralama çıkarıldı.",
+      "refs": [
+        {
+          "book": "mia",
+          "page": 21,
+          "item": "222",
+          "quote": "P-R uzaması oluşturanlar… Adenozin>Verapamil>Sotalol",
+          "image": "assets/sources/mia-p21-i222.webp",
+          "imageKind": "crop"
+        }
+      ],
+      "rawId": "mia2_cards:74"
+    },
+    {
+      "question": "Stronsiyum ranelatın kemik döngüsü üzerindeki kaynakta belirtilen çift etkisi nedir?",
+      "reason": "Tarihsel sınıflama; kardiyovasküler risk ve güncel erişim kısıtları nedeniyle standart öneri olarak sunulmamalı.",
+      "refs": [
+        {
+          "book": "mia",
+          "page": 22,
+          "item": "234",
+          "quote": "Strontium ranelat… Kemik yapımını arttıran, kemik yıkılımını azaltan ilaç (Sklerostin antikor romosozumab benzer etkilidir)",
+          "image": "assets/sources/mia-p22-i234.webp",
+          "imageKind": "crop"
+        }
+      ],
+      "rawId": "mia2_cards:88"
+    },
+    {
+      "question": "Primakin gibi karaciğer hipnozoitlerini hedefleyen uzun etkili 8-aminokinolin hangisidir?",
+      "reason": "Kaynak tafenokuin/etokuin der; “etokuin” adlandırması doğrulanamadı. G6PD gerekliliği klinik bağlamda ayrıca önemlidir.",
+      "refs": [
+        {
+          "book": "mia",
+          "page": 22,
+          "item": "235",
+          "quote": "Tafenokuin / Etokuin… Hipnozitlere etkili sıtma ilaçları (primakin gibi)",
+          "image": "assets/sources/mia-p22-i235.webp",
+          "imageKind": "crop"
+        }
+      ],
+      "rawId": "mia2_cards:89"
+    },
+    {
+      "question": "TNF-α antagonistlerine beş örnek nedir?",
+      "reason": "Kaynak RA/AS/Crohn endikasyonlarını tüm gruba geneller; etanersept Crohn tedavisi değildir. Ajan bazında ayrılmalı.",
+      "refs": [
+        {
+          "book": "mia",
+          "page": 23,
+          "item": "241",
+          "quote": "TNF-α antagonistleri…Adalimumab, sertolizumab, etanercept, golimumab, infliksimab.RA, ankilozan spondilit, Crohn tdv.",
+          "image": "assets/sources/mia-p23-i241.webp",
+          "imageKind": "crop"
+        }
+      ],
+      "rawId": "mia2_cards:96"
+    },
+    {
+      "question": "Kaynakta uzun etki süresiyle ilişkilendirilen ilaç örnekleri hangileridir?",
+      "reason": "“Türünün en uzunu” tüm liste için güncel/doğru değildir (ör. semaglutid ve yeni bazal insülinler); sınıf ve ölçüt bazında incelenmeden aktif desteye alınmamalı.",
+      "refs": [
+        {
+          "book": "mia",
+          "page": 23,
+          "item": "249",
+          "quote": "Türünün en uzun etkili olan ilaçları… Alendronat,Pentaeritriol tetranitrat, Amiodaron, Tenoksikam, Fluoksetin, insülin degludec, albiglutid, dulaglutid, frovatriptan, palonosetron, indacaterol",
+          "image": "assets/sources/mia-p23-i249.webp",
+          "imageKind": "crop"
+        }
+      ],
+      "rawId": "mia2_cards:105"
+    },
+    {
+      "question": "Kaynakta kısa etki süresiyle eşleştirilen ilaç örnekleri hangileridir?",
+      "reason": "“Türünün en kısası” genellemeleri güncel ajanlarla karşılaştırılmadan kullanılmamalı; etki süresi, yarı ömür ve başlangıç karışıyor.",
+      "refs": [
+        {
+          "book": "mia",
+          "page": 23,
+          "item": "250",
+          "quote": "Türünün en kısa etkili olan ilaçları… İnhale insülin (Afrezza), amilnitrit, ketiapin, ondansetron, zaleplon, midazolam, metoheksital",
+          "image": "assets/sources/mia-p23.webp",
+          "imageKind": "page"
+        }
+      ],
+      "rawId": "mia2_cards:106"
+    },
+    {
+      "question": "Sülfonamid yapılı antiepileptik hangisidir?",
+      "reason": "Sülfonamid yapısı tüm ajanlar arasında mutlak çapraz alerji anlamına gelmez; kaynak sarılık/alerji notu ayrıntısızdır.",
+      "refs": [
+        {
+          "book": "mia",
+          "page": 24,
+          "item": "263",
+          "quote": "Zonisamid... Sülfonamid türevi antiepileptiktir. Sülfanomid türevleri: furosemid, tiazid, selekoksibdir (sulfonamid alerjisi, sarılık)",
+          "image": "assets/sources/mia-p24-i263.webp",
+          "imageKind": "crop"
+        }
+      ],
+      "rawId": "mia2_cards:123"
+    },
+    {
+      "question": "Hepatik kan akımından belirgin etkilenen yüksek ekstraksiyonlu ilaç örnekleri nelerdir?",
+      "reason": "Kaynağın aynı listeye eklediği izoniazid/labetalol için bağlam doğrulanmalı; izoniazid metabolizmasında asetilatör fenotipi önemlidir.",
+      "refs": [
+        {
+          "book": "mia",
+          "page": 26,
+          "item": "10",
+          "quote": "Karaciğer kan akımına bağlı yıkılan en önemli ilaçlar…Morfin, verapamil, propranolol, lidokain, İNH, labetolol",
+          "image": "assets/sources/mia-p26-i10.webp",
+          "imageKind": "crop"
+        }
+      ],
+      "rawId": "mia2_cards:135"
+    },
+    {
+      "question": "Norepinefrin/fenilefrinin basınç artışına eşlik eden refleks kalp hızı yanıtı nedir?",
+      "reason": "Kaynak bunu Bezold–Jarisch refleksi diye adlandırıyor; standart mekanizma arteriyel barorefleks. Doğrulama kaynağı eklenmeli.",
+      "refs": [
+        {
+          "book": "mia",
+          "page": 29,
+          "item": "54",
+          "quote": "Sistol -Diastol- Periferik direnç-Kalp atım sayısı. NE /Fenilefrin: sistolik TA ↑↑, diastolik TA ↑↑, ortalama TA ↑↑, periferik direnç ↑↑↑, kalp atım sayısı ↓↓ (Bezold Jarisch, vagus). Epinefrin: sistolik TA ↑↑; diastolik TA ↑↓; ortalama TA ↑; periferik direnç ↑↓; kalp atım sayısı ↑↓. İzoproterenol: sistolik TA ↓/↔; diastolik TA ↓↓; ortalama TA ↓; periferik direnç ↓↓; kalp atım sayısı ↑↑↑.",
+          "image": "assets/sources/mia-p29-i54.webp",
+          "imageKind": "crop"
+        }
+      ],
+      "rawId": "mia2_cards:190"
+    },
+    {
+      "question": "Diyabetli her hastaya koşulsuz ACE inhibitörü veya ARB başlanır mı?",
+      "reason": "Kaynağın koşulsuz önerisi endikasyona göre güncel kılavuzla daraltılmalı.",
+      "refs": [
+        {
+          "book": "mia",
+          "page": 31,
+          "item": "9",
+          "quote": "Diabetik hastada…ACE inhibitörü ve ARB kullan",
+          "image": "assets/sources/mia-p31-i9.webp",
+          "imageKind": "crop"
+        }
+      ],
+      "rawId": "mia3_cards:12"
+    },
+    {
+      "question": "Akut kalp yetersizliğinde dobutamin, dopamin ve PDE3 inhibitörleri her hastaya rutin verilir mi?",
+      "reason": "Akut tedavi listesinin klinik koşulları ve konivaptanın rolü ayrı kılavuz doğrulaması gerektirir.",
+      "refs": [
+        {
+          "book": "mia",
+          "page": 31,
+          "item": "13",
+          "quote": "İnamrinon vb, Dopamin, dobutamin,furosemid, levosimendan, nitroprussid, nitrogliserin, konivaptan",
+          "image": "assets/sources/mia-p31-i13.webp",
+          "imageKind": "crop"
+        }
+      ],
+      "rawId": "mia3_cards:18"
+    },
+    {
+      "question": "Kaynak tablosundaki “amlodipin sistolik yetersizlik endikasyonu, diyastolik yetersizlik kontrendikasyonu” güvenilir bir ezber midir?",
+      "reason": "Kaynak endikasyon-kontrendikasyon tablosu aşırı genelleştirilmiş; güncel ürün etiketiyle doğrulanmalı.",
+      "refs": [
+        {
+          "book": "mia",
+          "page": 35,
+          "item": "28",
+          "quote": "Amlodipin (en uzun etkili) Sistolik yetmezlik DKY",
+          "image": "assets/sources/mia-p35-i28.webp",
+          "imageKind": "crop"
+        }
+      ],
+      "rawId": "mia3_cards:62"
+    },
+    {
+      "question": "Nimodipin hangi serebrovasküler bağlamda kullanılır?",
+      "reason": "Kaynağın genel “stroke” ifadesi çok geniş; özgül endikasyon resmi etiketle doğrulanmalı.",
+      "refs": [
+        {
+          "book": "mia",
+          "page": 35,
+          "item": "28",
+          "quote": "Stroke Nikardipin, nimodipin",
+          "image": "assets/sources/mia-p35-i28.webp",
+          "imageKind": "crop"
+        }
+      ],
+      "rawId": "mia3_cards:63"
+    },
+    {
+      "question": "Kaynakta intravenöz ACE inhibitörü olarak hangi tarihsel peptit belirtilmiş?",
+      "reason": "Teprotid tarihsel/deneysel örnek; mevcut intravenöz klinik seçenek enalaprilat için ayrı doğrulama gerekli.",
+      "refs": [
+        {
+          "book": "mia",
+          "page": 35,
+          "item": "29",
+          "quote": "İv kullanılan; teprotid.",
+          "image": "assets/sources/mia-p35-i29.webp",
+          "imageKind": "crop"
+        }
+      ],
+      "rawId": "mia3_cards:67"
+    },
+    {
+      "question": "Olmesartan ve azilsartan her düzey karaciğer/böbrek yetersizliğinde koşulsuz kullanılabilir mi?",
+      "reason": "Koşulsuz organ yetersizliği önerisi güvenli değil; doz/kontrendikasyon ürün bazında kontrol edilmeli.",
+      "refs": [
+        {
+          "book": "mia",
+          "page": 36,
+          "item": "87",
+          "quote": "Olmesartan, azilsartan: KC, renal yetmezlikte kullan.",
+          "image": "assets/sources/mia-p36-i87.webp",
+          "imageKind": "crop"
+        }
+      ],
+      "rawId": "mia3_cards:71"
+    },
+    {
+      "question": "Dronedaron bütün hastalarda mortalite artıran bir ilaç mıdır?",
+      "reason": "Kaynağın bağlamsız mortalite iddiası resmi kontrendikasyonlara göre daraltılmalı.",
+      "refs": [
+        {
+          "book": "mia",
+          "page": 38,
+          "item": "95",
+          "quote": "Mortalite artışı: Flekainid, dronedaron",
+          "image": "assets/sources/mia-p38-i95.webp",
+          "imageKind": "crop"
+        }
+      ],
+      "rawId": "mia3_cards:100"
+    },
+    {
+      "question": "Niasin HDL'yi artırdığı için rutin kardiyovasküler korunmada otomatik tercih midir?",
+      "reason": "Kaynakta verilen etki sıralamaları doz ve klinik sonlanım bağlamı olmadan tedavi önceliği gibi kullanılamaz.",
+      "refs": [
+        {
+          "book": "mia",
+          "page": 40,
+          "item": "99",
+          "quote": "HDL artışı oluşturanlar Niasin>Fibrat",
+          "image": "assets/sources/mia-p40-i99.webp",
+          "imageKind": "crop"
+        }
+      ],
+      "rawId": "mia3_cards:131"
+    },
+    {
+      "question": "Çocuklarda basit febril nöbet için rutin kronik fenobarbital profilaksisi önerilir mi?",
+      "reason": "Rutin febril nöbet profilaksisi için güncel pediatri kılavuzu doğrulaması gerekli.",
+      "refs": [
+        {
+          "book": "mia",
+          "page": 42,
+          "item": "106",
+          "quote": "Fenobarbital Çocuklarda febril konv.",
+          "image": "assets/sources/mia-p42-i106.webp",
+          "imageKind": "crop"
+        }
+      ],
+      "rawId": "mia3_cards:164"
+    },
+    {
+      "question": "Halotan, enfluran ve sevofluranın kesin metabolizma yüzdeleri bu tablodan aynen alınmalı mı?",
+      "reason": "Halotan %41 ve enfluran %8 sayıları şüpheli; sayısal ezber kartına dönüştürülmedi.",
+      "refs": [
+        {
+          "book": "mia",
+          "page": 42,
+          "item": "107",
+          "quote": "Sevofluran 5 (florid); Enfluran 8; Halotan 41",
+          "image": "assets/sources/mia-p42-i107.webp",
+          "imageKind": "crop"
+        }
+      ],
+      "rawId": "mia3_cards:168"
+    }
+  ],
+  "topics": {
+    "Anestezikler": 53,
+    "Antibakteriyel ilaçlar": 66,
+    "Antiepileptikler": 28,
+    "Antifungal ilaçlar": 14,
+    "Antimikobakteriyel ilaçlar": 8,
+    "Antineoplastik ilaçlar": 69,
+    "Antiparaziter ilaçlar": 32,
+    "Antiviral ilaçlar": 30,
+    "Dermatoloji": 3,
+    "Diüretikler": 5,
+    "Endokrin sistem": 63,
+    "Farmakodinamik": 59,
+    "Farmakogenetik": 25,
+    "Farmakokinetik": 52,
+    "Gastrointestinal sistem": 29,
+    "Göz farmakolojisi": 7,
+    "Hematoloji ve hemostaz": 13,
+    "Kardiyovasküler sistem": 178,
+    "Lipid düşürücü ilaçlar": 3,
+    "Nöromüsküler blokerler": 10,
+    "Opioid analjezikler": 34,
+    "Otakoidler ve antiinflamatuvarlar": 43,
+    "Otonom sinir sistemi": 72,
+    "Parkinson ve santral uyarıcılar": 19,
+    "Psikofarmakoloji": 34,
+    "Santral sinir sistemi": 55,
+    "Solunum sistemi": 17,
+    "Toksikoloji": 16,
+    "Ürogenital sistem": 8,
+    "İlaç geliştirme ve güvenlilik": 2,
+    "İmmünfarmakoloji": 44
+  },
+  "summary": "Farmakoloji: İki kaynağın 64 sayfasından hazırlanan 1091 kart, 31 alt başlık. 47 doğrulanamayan/genellenemeyen ifade çalışma sırasından ayrıldı. Kaynak görselleri, sayfa/madde numaraları ve tespit edilen düzeltmeler kartlarda korunur. Her cümle için bağımsız güncellik doğrulaması yapılmış olduğu anlamına gelmez."
+}

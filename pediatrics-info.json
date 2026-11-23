@@ -1,0 +1,430 @@
+{
+  "sourceBoxes": 126,
+  "flashbackCards": 259,
+  "studyCards": 442,
+  "topics": 15,
+  "summary": "Pediatri: 183 tipik vaka + 259 Flashback kartı. 126 kutu incelendi; uzun içerikler kısa sorulara ayrıldı, özgün görseller ve PDF sayfaları korundu. Kaynak notları aşağıda.",
+  "reviewItems": [
+    {
+      "box": 2,
+      "reason": "Yenidoğan sarılığının tamamını başlangıçta patolojik kabul eden kapsamı belirsiz cümle ayrı karta çevrilmedi. Gri bebek/bronz bebek karışıklığı ilgili kartta düzeltme notuyla ayrıldı.",
+      "question": "Flashback 2 · PDF sayfa 3",
+      "refs": [
+        {
+          "book": "pediatri",
+          "page": 3,
+          "item": "2",
+          "image": "assets/sources/pediatri-p3-i2.webp",
+          "imageKind": "crop"
+        }
+      ]
+    },
+    {
+      "box": 11,
+      "reason": "RDS tanısında her bebek için ilk 2 saatte sürfaktan ifadesi; endikasyon ve solunum desteği koşulları belirtilmeden evrensel uygulama kuralı olarak kullanılmadı.",
+      "question": "Flashback 11 · PDF sayfa 14",
+      "refs": [
+        {
+          "book": "pediatri",
+          "page": 14,
+          "item": "11",
+          "image": "assets/sources/pediatri-p14-i11.webp",
+          "imageKind": "crop"
+        }
+      ]
+    },
+    {
+      "box": 15,
+      "reason": "“Bronz bebek = melanin sentez artışı” mekanizması güvenilir değildir; retinal hasar ve diğer yan etkiler koşulsuz kesin sonuç gibi kartlaştırılmadı. Porfiri, sıvı kaybı ve hipokalsemi bölümleri ayrıldı.",
+      "question": "Flashback 15 · PDF sayfa 17",
+      "refs": [
+        {
+          "book": "pediatri",
+          "page": 17,
+          "item": "15",
+          "image": "assets/sources/pediatri-p17-i15.webp",
+          "imageKind": "crop"
+        }
+      ]
+    },
+    {
+      "box": 17,
+      "reason": "Kaynağın tüm bebeklere uygulanan sabit 30–180 saniye aralığı güncel öneriler ve resüsitasyon gereksinimine göre değişir; sayısal zamanlama ayrı ezber kartına alınmadı. Polisitemi genellemesi ilgili kartta açıkça düzeltildi.",
+      "question": "Flashback 17 · PDF sayfa 18",
+      "refs": [
+        {
+          "book": "pediatri",
+          "page": 18,
+          "item": "17",
+          "image": "assets/sources/pediatri-p18-i17.webp",
+          "imageKind": "crop"
+        }
+      ]
+    },
+    {
+      "box": 23,
+      "reason": "“En sık kalp anomalisi yapan” karşılaştırması hangi sendrom grubu/payda için olduğu belirsizdir; kesin sıklık sorusuna dönüştürülmedi.",
+      "question": "Flashback 23 · PDF sayfa 26",
+      "refs": [
+        {
+          "book": "pediatri",
+          "page": 26,
+          "item": "23",
+          "image": "assets/sources/pediatri-p26-i23.webp",
+          "imageKind": "crop"
+        }
+      ]
+    },
+    {
+      "box": 32,
+      "reason": "Homosistinürinin marfanoid yapı, zihinsel etkilenme ve tromboz bilgisi mevcut Pediatri kartı 151 içinde zaten bulunuyor; aynı bilgi için yeni kart açılmadı.",
+      "question": "Flashback 32 · PDF sayfa 73",
+      "refs": [
+        {
+          "book": "pediatri",
+          "page": 73,
+          "item": "32",
+          "image": "assets/sources/pediatri-p73-i32.webp",
+          "imageKind": "crop"
+        }
+      ]
+    },
+    {
+      "box": 36,
+      "reason": "Her aritminin nabız basıncını artırdığı ve geniş nabız basıncının daima aort volüm azalmasına bağlı olduğu genellemeleri karta alınmadı; açıkça belirtilen kardiyak lezyonlar korundu.",
+      "question": "Flashback 36 · PDF sayfa 74",
+      "refs": [
+        {
+          "book": "pediatri",
+          "page": 74,
+          "item": "36",
+          "image": "assets/sources/pediatri-p74-i36.webp",
+          "imageKind": "crop"
+        }
+      ]
+    },
+    {
+      "box": 49,
+      "reason": "Verapamil verilmez ifadesi pulmoner hipertansiyonun tipi, vazoreaktivite ve kontraktilite bağlamı verilmeden genellenmiş. Kaynak gerekçesi yalnız iletim bozukluğuna indirgeniyor; tedavi önerisi olarak kesin kart yapılmadı.",
+      "question": "Flashback 49 · PDF sayfa 88",
+      "refs": [
+        {
+          "book": "pediatri",
+          "page": 88,
+          "item": "49",
+          "image": "assets/sources/pediatri-p88-i49.webp",
+          "imageKind": "crop"
+        }
+      ]
+    },
+    {
+      "box": 51,
+      "reason": "“Digoksin zehirlenmesinde sinüs taşikardisi görülmez” mutlak bir dışlama ifadesidir. Tipik olmayan bulguyu imkânsız sayan soru hazırlanmadı.",
+      "question": "Flashback 51 · PDF sayfa 90",
+      "refs": [
+        {
+          "book": "pediatri",
+          "page": 90,
+          "item": "51",
+          "image": "assets/sources/pediatri-p90-i51.webp",
+          "imageKind": "crop"
+        }
+      ]
+    },
+    {
+      "box": 55,
+      "reason": "Difteri miyokarditinde digoksin için mutlak “verilmez” ifadesi güncel hastaya özgü tedavi bağlamı olmadan kesin öneriye çevrilmedi.",
+      "question": "Flashback 55 · PDF sayfa 92",
+      "refs": [
+        {
+          "book": "pediatri",
+          "page": 92,
+          "item": "55",
+          "image": "assets/sources/pediatri-p92-i55.webp",
+          "imageKind": "crop"
+        }
+      ]
+    },
+    {
+      "box": 62,
+      "reason": "Malnütrisyonun ter testinde hem yalancı pozitiflik hem yalancı negatiflik yaptığı ifadesi, ölçüm koşulları ve klinik durum ayrıştırılmadan iki yönlü kesin bilgiye dönüştürülmedi.",
+      "question": "Flashback 62 · PDF sayfa 104",
+      "refs": [
+        {
+          "book": "pediatri",
+          "page": 104,
+          "item": "62",
+          "image": "assets/sources/pediatri-p104-i62.webp",
+          "imageKind": "crop"
+        }
+      ]
+    },
+    {
+      "box": 66,
+      "reason": "Döküntü, inkübasyon ve prodromun en uzun/en kısa sıralamaları aralıklar ve yaş bağlamı verilmeden sunulmuş; örtüşen süreleri mutlak sıralamaya çevirmemek için kontrol notuna ayrıldı.",
+      "question": "Flashback 66 · PDF sayfa 113",
+      "refs": [
+        {
+          "book": "pediatri",
+          "page": 113,
+          "item": "66",
+          "image": "assets/sources/pediatri-p113-i66.webp",
+          "imageKind": "crop"
+        }
+      ]
+    },
+    {
+      "box": 72,
+      "reason": "“İlaç anafilaksisi otoenjektör endikasyonu değildir” koşulsuz bir kural olarak kullanılamaz. Tekrar maruziyet olasılığı, kaçınma imkânı ve hastaya özgü risk değerlendirilmeden kesin çalışma kartı hazırlanmadı.",
+      "question": "Flashback 72 · PDF sayfa 125",
+      "refs": [
+        {
+          "book": "pediatri",
+          "page": 125,
+          "item": "72",
+          "image": "assets/sources/pediatri-p125-i72.webp",
+          "imageKind": "crop"
+        }
+      ]
+    },
+    {
+      "box": 74,
+      "reason": "Atopinin bütün istenmeyen ilaç reaksiyonlarında riski artırmadığı fakat hepsini daha şiddetli yaptığı şeklindeki iki mutlak ifade, reaksiyon mekanizması ve ilaç ayrılmadan genellenmiş. Kesin kart yapılmadı.",
+      "question": "Flashback 74 · PDF sayfa 129",
+      "refs": [
+        {
+          "book": "pediatri",
+          "page": 129,
+          "item": "74",
+          "image": "assets/sources/pediatri-p129-i74.webp",
+          "imageKind": "crop"
+        }
+      ]
+    },
+    {
+      "box": 76,
+      "reason": "Kronik granülomatöz hastalıkta HLH için “önce interferon-gamma kes, sonra yüksek doz steroid” şeklindeki sıra, enfeksiyon ve HLH şiddeti değerlendirilmeden genel tedavi algoritması olarak kullanılamaz; uzman doğrulaması için ayrıldı.",
+      "question": "Flashback 76 · PDF sayfa 134",
+      "refs": [
+        {
+          "book": "pediatri",
+          "page": 134,
+          "item": "76",
+          "image": "assets/sources/pediatri-p134-i76.webp",
+          "imageKind": "crop"
+        }
+      ]
+    },
+    {
+      "box": 80,
+      "reason": "Kutunun hipotiroidi ve izole büyüme hormonu eksikliğini yalnız TY/BY/KY eşitsizlikleriyle ayıran kısmı klinik genelleme riski nedeniyle kartlaştırılmadı. Ailesel ve konstitüsyonel örüntüler sınırlı öğrenme şeması olarak korundu.",
+      "question": "Flashback 80 · PDF sayfa 138",
+      "refs": [
+        {
+          "book": "pediatri",
+          "page": 138,
+          "item": "80",
+          "image": "assets/sources/pediatri-p138-i80.webp",
+          "imageKind": "crop"
+        }
+      ]
+    },
+    {
+      "box": 82,
+      "reason": "Hiperkalsemi nedenleri kutusunda “sekonder hiperparatiroidi” bağlam verilmeden listelenmiş; sekonder hiperparatiroidinin her türünü hiperkalsemiyle eşitleyen bir kart hazırlanmadı. Diğer açık ilişkiler korundu.",
+      "question": "Flashback 82 · PDF sayfa 142",
+      "refs": [
+        {
+          "book": "pediatri",
+          "page": 142,
+          "item": "82",
+          "image": "assets/sources/pediatri-p142-i82.webp",
+          "imageKind": "crop"
+        }
+      ]
+    },
+    {
+      "box": 89,
+      "reason": "Kutudaki “hava mavisi idrar / Blue Diaper” eşleştirmesi ayrı tanılarla karışmaya açıktır; çekirdek taşıma bozukluğu ve deri bulgusu kartlaştırıldı, bu eşleştirme alınmadı.",
+      "question": "Flashback 89 · PDF sayfa 150",
+      "refs": [
+        {
+          "book": "pediatri",
+          "page": 150,
+          "item": "89",
+          "image": "assets/sources/pediatri-p150-i89.webp",
+          "imageKind": "crop"
+        }
+      ]
+    },
+    {
+      "box": 93,
+      "reason": "“HbF’nin yaşam süresi 70 gün” ifadesi hemoglobin ile fetal eritrosit yaşam süresini karıştırabilir; belirsiz süre kartlaştırılmadı.",
+      "question": "Flashback 93 · PDF sayfa 157",
+      "refs": [
+        {
+          "book": "pediatri",
+          "page": 157,
+          "item": "93",
+          "image": "assets/sources/pediatri-p157-i93.webp",
+          "imageKind": "crop"
+        }
+      ]
+    },
+    {
+      "box": 97,
+      "reason": "“En sık hemoglobinopati: orak hücreli anemi” ifadesinin toplum ve tanım kapsamı belirsiz olduğu için sıklık iddiası kartlaştırılmadı.",
+      "question": "Flashback 97 · PDF sayfa 163",
+      "refs": [
+        {
+          "book": "pediatri",
+          "page": 163,
+          "item": "97",
+          "image": "assets/sources/pediatri-p163-i97.webp",
+          "imageKind": "crop"
+        }
+      ]
+    },
+    {
+      "box": 103,
+      "reason": "AML kutusundaki geniş risk listesi eski FAB alt tipleri ile genetik bulguları koşulsuz birleştiriyor. Yalnız t(8;21) ve inv(16) çekirdek bilgisi alındı; kalan genellemeler güncel pediatrik risk sınıflamasıyla ayrı değerlendirme gerektiriyor.",
+      "question": "Flashback 103 · PDF sayfa 170",
+      "refs": [
+        {
+          "book": "pediatri",
+          "page": 170,
+          "item": "103",
+          "image": "assets/sources/pediatri-p170-i103.webp",
+          "imageKind": "crop"
+        }
+      ]
+    },
+    {
+      "box": 107,
+      "reason": "Kutuda Denys–Drash için “WT1 delesyonu”, Beckwith–Wiedemann için “WT2 geni; delesyon” genellemeleri var. Klinik birliktelikler korundu; heterojen moleküler mekanizmalar bu şekilde kartlaştırılmadı.",
+      "question": "Flashback 107 · PDF sayfa 173",
+      "refs": [
+        {
+          "book": "pediatri",
+          "page": 173,
+          "item": "107",
+          "image": "assets/sources/pediatri-p173-i107.webp",
+          "imageKind": "crop"
+        }
+      ]
+    },
+    {
+      "box": 113,
+      "reason": "“C3 nefritik faktör → MPGN tip II” satırı eski sınıflamayı kullanır. Güncel C3 glomerülopatisi/yoğun depo hastalığı ayrımı gerektirdiğinden bu eşleştirme doğrudan kartlaştırılmadı.",
+      "question": "Flashback 113 · PDF sayfa 179",
+      "refs": [
+        {
+          "book": "pediatri",
+          "page": 179,
+          "item": "113",
+          "image": "assets/sources/pediatri-p179-i113.webp",
+          "imageKind": "crop"
+        }
+      ]
+    },
+    {
+      "box": 114,
+      "reason": "“Yenidoğanda en sık abdominal kitle” ve “genetik geçişi yoktur” ifadeleri koşulsuz genellemeler içeriyor; yalnız tipik taraf ve işlev özellikleri alındı.",
+      "question": "Flashback 114 · PDF sayfa 182",
+      "refs": [
+        {
+          "book": "pediatri",
+          "page": 182,
+          "item": "114",
+          "image": "assets/sources/pediatri-p182-i114.webp",
+          "imageKind": "crop"
+        }
+      ]
+    },
+    {
+      "box": 115,
+      "reason": "Bikarbonat ve reçine satırları endikasyon, etki başlangıcı ve diğer seçeneklerden bağımsız zorunlu bir sıra olarak sunulmamalı; yalnız doğrulanabilir temel mekanizmalar alındı.",
+      "question": "Flashback 115 · PDF sayfa 183",
+      "refs": [
+        {
+          "book": "pediatri",
+          "page": 183,
+          "item": "115",
+          "image": "assets/sources/pediatri-p183-i115.webp",
+          "imageKind": "crop"
+        }
+      ]
+    },
+    {
+      "box": 120,
+      "reason": "Yalnız reflekslerin adları odaklı karta alındı. Kutudaki “koma” bir refleks değildir ve liste beyin ölümü için eksiksiz tanı ölçütü değildir; bu kapsam farkı kartta doğrulama bağlantısıyla açıklandı.",
+      "question": "Flashback 120 · PDF sayfa 190",
+      "refs": [
+        {
+          "book": "pediatri",
+          "page": 190,
+          "item": "120",
+          "image": "assets/sources/pediatri-p190-i120.webp",
+          "imageKind": "crop"
+        }
+      ]
+    },
+    {
+      "box": 121,
+      "reason": "SIRS + enfeksiyon şeklindeki sepsis/ağır sepsis tanımları eski çerçeveye aittir. Güncel pediatrik sepsis tanımıyla karışabileceğinden bu kutu doğrudan çalışma kartına alınmadı.",
+      "verificationUrl": "https://www.sccm.org/clinical-resources/sepsis-definitions",
+      "question": "Flashback 121 · PDF sayfa 190",
+      "refs": [
+        {
+          "book": "pediatri",
+          "page": 190,
+          "item": "121",
+          "image": "assets/sources/pediatri-p190-i121.webp",
+          "imageKind": "crop"
+        }
+      ]
+    },
+    {
+      "box": 122,
+      "reason": "Dopaminin düşük/orta dozda renal akımı artırması satırı renal koruma veya şok tedavisinde tercih önerisi gibi anlaşılmamalı; bu satır kartlaştırılmadı. Diğer ilaçlar yalnız temel etkileri açısından soruldu.",
+      "question": "Flashback 122 · PDF sayfa 191",
+      "refs": [
+        {
+          "book": "pediatri",
+          "page": 191,
+          "item": "122",
+          "image": "assets/sources/pediatri-p191-i122.webp",
+          "imageKind": "crop"
+        }
+      ]
+    },
+    {
+      "box": 123,
+      "reason": "“Güncel yaygınlık 1/31” yaş, ülke ve izlem yılı belirtilmeden genellenemez. Williams sıralaması ve nöroanatomik genellemeler de çekirdek kartlara alınmadı.",
+      "question": "Flashback 123 · PDF sayfa 193",
+      "refs": [
+        {
+          "book": "pediatri",
+          "page": 193,
+          "item": "123",
+          "image": "assets/sources/pediatri-p193-i123.webp",
+          "imageKind": "crop"
+        }
+      ]
+    },
+    {
+      "box": 125,
+      "reason": "Şizofreni aday genlerinin “sık/az ilişkili” sıralaması ve doğumsal komplikasyonların “en sık” ifadesi bağlam ve kanıt düzeyi belirsiz olduğundan aktarılmadı; 22q11.2 ilişkisi korundu.",
+      "question": "Flashback 125 · PDF sayfa 194",
+      "refs": [
+        {
+          "book": "pediatri",
+          "page": 194,
+          "item": "125",
+          "image": "assets/sources/pediatri-p194-i125.webp",
+          "imageKind": "crop"
+        }
+      ]
+    }
+  ]
+}
