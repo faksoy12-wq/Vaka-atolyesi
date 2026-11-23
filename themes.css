@@ -127,3 +127,11 @@ html[data-tone="dark"] .ratings button:last-child{background:#344c3c;color:#d5ea
 .appearance select{width:100%;min-height:44px;color:var(--ink);background-color:var(--paper);border:1px solid var(--line);border-radius:9px;padding:8px}
 .appearance-swatches{display:flex;gap:5px;margin-top:12px}.appearance-swatches i{width:24px;height:12px;border-radius:6px;background:var(--va-tint);border:1px solid var(--va-line)}.appearance-swatches i:nth-child(2){background:var(--va-muted)}.appearance-swatches i:last-child{background:var(--va-accent)}
 html[data-custom] #star[aria-pressed="true"]{color:var(--va-accent)}
+
+html[data-tone="dark"] .focus-art .art-card.front {
+  background: color-mix(in srgb, var(--va-hero) 68%, var(--va-accent));
+}
+html[data-tone="dark"] .focus-art .art-card.front b,
+html[data-tone="dark"] .focus-art .art-card.front b span {
+  color: #fffaf3;
+}
